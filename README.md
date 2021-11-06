@@ -19,4 +19,4 @@ The webpage meets accessibility standards when:
 ![Screenshot of Horizon Homepage](./assets/images/horiseon-site-screenshot.png)
 
 ### Link
-[Horiseon Homepage](https://github.com/lexslo/UCB-challenge-01.git)
+[Horiseon Homepage](lexslo.github.io/UCB-challenge-01)
